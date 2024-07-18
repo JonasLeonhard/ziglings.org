@@ -1,5 +1,7 @@
 # Ziglings
 
+INFO: used zig version: 0.14.0-dev.362+9d9b5a11e
+
 Welcome to Ziglings! This project contains a series of tiny
 broken programs (and one nasty surprise).  By fixing them, you'll
 learn how to read and write [Zig](https://ziglang.org/) code.
